@@ -44,7 +44,7 @@ npm install  # Install dependencies
 npm run dev -- --host  # Start frontend server
 ```
 
-### Short Demo (A Very Rough Demo Indeed!)
-[![Music Deconstructor Demo](https://img.youtube.com/vi/P8H_VBtxBtc/0.jpg)](https://www.youtube.com/watch?v=P8H_VBtxBtc)
+### Short YouTube Demo (A Very Rough Demo Indeed!)
+[![Music Deconstructor Demo](https://github.com/user-attachments/assets/c65b8fa4-7c98-4386-bca6-08138ae6fcac)](https://www.youtube.com/watch?v=P8H_VBtxBtc)
 
 
